@@ -1,0 +1,20 @@
+  h1 {
+  text-align: center;
+  color: green;
+}
+
+body{
+    /* The image used */
+  background-image: url("wood.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  text-align: center;
+  size: 200px;
+}
